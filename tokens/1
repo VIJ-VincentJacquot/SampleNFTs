@@ -1,1 +1,28 @@
-
+{
+  "id": 1,
+  "image": "https://github.com/VIJ-VincentJacquot/SampleNFTs/blob/main/images/BadKids_193.png?raw=true",
+  "token_id": "1",
+  "background_color": "yellow",
+  "animation_url": null,
+  "name": "Test zkEVM NFT",
+  "description": "This is a Bad Kid NFT #193",
+  "attributes": [
+    {
+      "trait_type": "Hair color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Sweater color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes color,
+      "value": "Blue"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 1
+    }
+  ]
+}

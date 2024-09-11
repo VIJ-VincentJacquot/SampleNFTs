@@ -1,0 +1,44 @@
+{
+
+  "assets": 
+  [
+      {
+
+  "reference_id": "2",
+  "owner_address": "0x046761f459dc35814A87Fe338C8A377D34f0BC41",
+  "amount":"100",
+  "metadata": {
+      "name": "Bad Kid #2041",
+      "description": "This is a Bad Kid NFT #2041",
+      "image": "https://github.com/VIJ-VincentJacquot/SampleNFTs/blob/main/images/BadKids_193.png?raw=true"
+              },
+    "attributes": [
+    {
+      "display_type":"number",
+      "trait_type": "Hair color",
+      "value": "Black"
+    },
+    {
+      "display_type":"number",
+      "trait_type": "Sweater color",
+      "value": "Green"
+    },
+    {
+      "display_type":"number",
+      "trait_type": "Eyes color",
+      "value": "Black"
+    },
+    {
+        "display_type":"number",
+        "trait_type": "Background color",
+        "value": "Blue"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 1
+    }
+                ]
+      }    
+  ]
+}
